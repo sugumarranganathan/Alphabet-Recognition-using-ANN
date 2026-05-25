@@ -1,0 +1,6 @@
+{
+  "name": "EMNIST Letters ANN Classifier",
+  "description": "Handwritten Alphabet Recognition using Artificial Neural Network",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
